@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MRRachana
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Big Data Analytics with Python
+- 🌱 I’m currently learning Big Data Analytics with Python and have leveraged skills over Advanced Excel, SQL, Power BI, Structured Problem Solving, Statistical Analysis and Fundamentals of Python.
 - 💞️ I’m looking to collaborate on SQL projects, Data Analysis & Interpretations
 - 📫 Reach me @ www.linkedin.com/in/mrrachana2000
 - 😄 Pronouns: She/Her
